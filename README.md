@@ -41,6 +41,10 @@ The project is organized into two main directories: `data` and `src`.
   - `Settings.json`: Chrome browser settings.
 - `tlds.csv`: List of top-level domains used for data processing.
 
+### How to Download the Google Chrome Data
+- [Download your data](https://takeout.google.com/settings/takeout) from Google Takeout.
+- Extract the downloaded zip file and navigate to the `Chrome` directory to find the exported data files.
+
 ### Source Code
 
 - `src/`: Contains Jupyter notebooks for data processing and analysis.
