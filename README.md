@@ -74,4 +74,3 @@ This project is open source and available under the MIT License.
 
 ## Contact
 For questions or suggestions, please open an issue in the GitHub repository.
-Remember to replace placeholders (like `[MIT License](LICENSE)`) with actual links or information relevant to your project. This README provides a solid starting point for documenting your project and guiding users or contributors through its structure and usage.
